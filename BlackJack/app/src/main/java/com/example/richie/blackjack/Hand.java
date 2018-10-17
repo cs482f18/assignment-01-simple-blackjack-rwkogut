@@ -1,6 +1,8 @@
 package com.example.richie.blackjack;
 import java.util.ArrayList;
-
+/**
+ * Add class description including @author and @version
+ */
 public class Hand
 {
     //Stores the score and cards in hand
