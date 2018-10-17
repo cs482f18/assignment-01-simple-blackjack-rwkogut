@@ -1,5 +1,8 @@
 package com.example.richie.blackjack;
-
+/**
+ * Write class level javadoc on top of every class with @author and @version information
+ * 
+ */ 
 public class Dealer extends Participant
 {
     /**
