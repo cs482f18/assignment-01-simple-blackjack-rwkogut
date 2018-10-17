@@ -1,10 +1,18 @@
 package com.example.richie.blackjack;
-
+/**
+ * You need to wrie a class description on top of every class. For example
+ * This class represents a Card object
+ * @author Richie Kogut
+ * @version 1.0 10/05/2018
+ */
 public class Card
 {
     //Instance variables for the cards number and suit
+    /** Decribe the instance variable. E.g., the suit of the Card */
     private char cardSuit;
+    /** The numeric value of the Card */
     private char cardNum;
+    
     private boolean drawnStatus;
     /**
      * Constructor that initializes the suit and value of the card
